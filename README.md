@@ -156,6 +156,20 @@ Ini adalah proyek REST API sederhana menggunakan Node.js dan Express. API ini me
     ```bash
     curl -X DELETE https://your-app-name.herokuapp.com/api/items/1
     ```
+## Uji API Di Website Saya
+
+Anda dapat menguji API menggunakan halaman sederhana ini. Isi formulir dengan URL endpoint, metode HTTP, dan (opsional) body JSON, lalu klik "Submit" untuk melihat respons.
+
+### [Buka Halaman Uji API](https://your-app-name.herokuapp.com)
+
+Halaman ini menggunakan HTML, CSS, dan JavaScript untuk mengirimkan request ke API Anda. Pastikan mengganti `https://your-app-name.herokuapp.com` dengan URL aplikasi Heroku Anda yang sebenarnya.
+
+![API Tester](api-tester.png)
+
+### Catatan
+
+- Pastikan API Anda mengizinkan CORS dari domain ini agar permintaan dapat berhasil.
+- Form ini hanya cocok untuk menguji API yang tidak memerlukan otentikasi khusus dari sisi klien.
 
 ## Lisensi
 

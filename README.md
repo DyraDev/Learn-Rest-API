@@ -12,8 +12,8 @@ Ini adalah proyek REST API sederhana menggunakan Node.js dan Express. API ini me
 
 1. **Clone repository ini**:
     ```bash
-    git clone https://github.com/username/repo-name.git
-    cd repo-name
+    git clone https://github.com/DyraDev/Learn-Rest-API
+    cd Learn-Rest-API
     ```
 
 2. **Instal dependencies**:
@@ -25,21 +25,11 @@ Ini adalah proyek REST API sederhana menggunakan Node.js dan Express. API ini me
 
 1. **Jalankan server**:
     ```bash
-    npm start
+    npm run start
     ```
 
 2. **Akses API**:
     Buka browser atau Postman dan akses `http://localhost:3000`.
-
-## Struktur Proyek
-
-Learn-Rest-API/
-│
-├── package.json
-├── package-lock.json
-├── app.js
-└── routes/
-└── index.js
 
 
 ## API Endpoints

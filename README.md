@@ -160,7 +160,7 @@ Ini adalah proyek REST API sederhana menggunakan Node.js dan Express. API ini me
 
 Anda dapat menguji API menggunakan halaman sederhana ini. Isi formulir dengan URL endpoint, metode HTTP, dan (opsional) body JSON, lalu klik "Submit" untuk melihat respons.
 
-### [Buka Halaman Uji API](https://your-app-name.herokuapp.com)
+### [Buka Halaman Uji API](https://api-fe-999541ab4a05.herokuapp.com/)
 
 Halaman ini menggunakan HTML, CSS, dan JavaScript untuk mengirimkan request ke API Anda. Pastikan mengganti `https://your-app-name.herokuapp.com` dengan URL aplikasi Heroku Anda yang sebenarnya.
 

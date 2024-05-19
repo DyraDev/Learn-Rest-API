@@ -164,7 +164,7 @@ Anda dapat menguji API menggunakan halaman sederhana ini. Isi formulir dengan UR
 
 Halaman ini menggunakan HTML, CSS, dan JavaScript untuk mengirimkan request ke API Anda. Pastikan mengganti `https://your-app-name.herokuapp.com` dengan URL aplikasi Heroku Anda yang sebenarnya.
 
-![API Tester](api-tester.png)
+![API Tester](https://api-fe-999541ab4a05.herokuapp.com/Screenshot_2024-05-19-14-45-19-56.jpg)
 
 ### Catatan
 
